@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SoccerTeam">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SoccerTeam.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

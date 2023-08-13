@@ -1,0 +1,41 @@
+A Team is Created, and the team's name is :JJ Team
+
+Add Players to original list, and form a team no less than 10 players and no more than 20 players.
+Jersey numbers are unique and are randomly assigned between 1-20 once team is formed.
+
+Following is the formal team list, sorted by last name in alphabetical order:
+Chandler Bing, jersey number: 11
+Eason Chen, jersey number: 16
+John Doe, jersey number: 5
+Monica Galler, jersey number: 9
+Jeevin Gill, jersey number: 6
+Rachel Green, jersey number: 8
+Rupert Grint, jersey number: 3
+Hewitt Hsiao, jersey number: 10
+Marcarious Hui, jersey number: 19
+David Kim, jersey number: 7
+Sarah Lee, jersey number: 15
+Daniel Radcliffe, jersey number: 20
+Sam Shen, jersey number: 13
+Emma Watson, jersey number: 1
+
+Select 7 most skilled players to play starting lineup.
+These players will be assigned their preferred positions, those who don't get their preferred positions will be randomly assigned to empty positions.
+
+Following is the selected team starting Line up, sorted by sorted by position (goalie, defender, midfielder, forward). Players with the same position are ordered alphabetically.
+
+Starting Lineup:
+GOALIEs:
+- Hui, Marcarious (#19)
+
+DEFENDERs:
+- Lee, Sarah (#15)
+- Radcliffe, Daniel (#20)
+
+MIDFIELDERs:
+- Doe, John (#5)
+- Gill, Jeevin (#6)
+- Shen, Sam (#13)
+
+FORWARDs:
+- Hsiao, Hewitt (#10)
